@@ -1,2 +1,1 @@
-# KELOMPOK-1-
-Repo punya kelompok 1
+1. Uswatun Hasanah 1308107010030
