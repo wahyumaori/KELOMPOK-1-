@@ -1,2 +1,1 @@
-# KELOMPOK-1-
-Repo punya kelompok 1
+1. Raimi Fahmi (1308107010047)
