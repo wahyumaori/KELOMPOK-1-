@@ -1,0 +1,185 @@
+#halaman-main{
+    background-color: rgba(255,255,255,0.8);
+    width: 520px;
+    margin-top: 100px;
+    margin-left: 210px;
+    padding: 200px;
+    padding-bottom: 170px;
+    border-radius: 4px;
+}
+#form-id{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 20px
+}
+#id{
+    width: 20%;
+    padding: 5px;
+    color: #333;
+    outline: none;
+    margin-top: 0px;
+    margin-left: -600px;
+    margin-right: 375px;
+    float: right;
+}
+#pasword{
+    width: 20%;
+    padding: 5px;
+    color: #333;
+    outline: none; 
+    margin-top: 100px;
+    margin-left: -600px;
+    margin-right: 370px;
+    float: right;
+}
+#teks{
+    margin-left:225px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    float: left;
+    margin-top: 50px;
+}
+#admin-submit{
+    height: 30px;
+    width: 65px;
+    font-size: 14px;
+    color: #fff;
+    background-color: #000;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+    float: right;
+    margin-top: 150px;
+    margin-right: 425px;
+}
+#loginD{
+    font-size: 14px;
+     width: 100px;
+    padding: 5px;
+    color: #333;
+    outline: none;
+    margin-top: 10px;
+    margin-left: 875px;
+    margin-right: -35px;
+    float: right;
+}
+#loginA{
+    font-size: 14px;
+     width: 100px;
+    padding: 5px;
+    color: #333;
+    outline: none;
+    margin-top: 20px;
+    margin-left: 875px;
+    margin-right: -35px;
+    float: right;
+}
+#loginP{
+    font-size: 14px;
+     width: 100px;
+    padding: 5px;
+    color: #333;
+    outline: none;
+    margin-top: 25px;
+    margin-left: 875px;
+    margin-right: -35px;
+    float: right;
+} 
+#button{
+	font-size: 14px;
+    width: 150px;
+    padding: 5px;
+    color: #333;
+    outline: none;
+    margin-top: 25px;
+    margin-left:25px;
+    margin-right: -35px;
+    float: right;
+}
+#menu{
+	width: 200px; 
+    margin: 10px; 
+    margin-top: 250px;  
+} 
+/* CSS for Zebra Table in index.html */
+.zebra-table1 {
+width: 50%;
+border-collapse: collapse;
+box-shadow: 0 2px 3px 1px #ddd;
+overflow: hidden;
+border:10px solid #fff;
+margin-left: 300px;
+margin-right: 100px;
+margin-top: -425px;
+}
+.zebra-table1 th,.zebra-table td{
+vertical-align: top;
+padding:10px 7px;
+text-align: left;
+
+}
+.zebra-table1 tbody tr:nth-child(odd) { /* Make table like zebra */
+background:#eee;
+}/* End CSS for Zebra Table in index.html */
+
+.zebra-table2 {
+width: 50%;
+border-collapse: collapse;
+box-shadow: 0 2px 3px 1px #ddd;
+overflow: hidden;
+border:10px solid #fff;
+margin-left: 300px;
+margin-right: 100px;
+margin-top: -425px;
+}
+.zebra-table2 th,.zebra-table td{
+vertical-align: top;
+padding:10px 7px;
+text-align: left;
+
+}
+.zebra-table2 tbody tr:nth-child(odd) { /* Make table like zebra */
+background:#eee;
+}/* End CSS for Zebra Table in index.html */
+
+
+.zebra-table3 {
+width: 50%;
+border-collapse: collapse;
+box-shadow: 0 2px 3px 1px #ddd;
+overflow: hidden;
+border:10px solid #fff;
+margin-left: 300px;
+margin-right: 100px;
+margin-top: -370px;
+}
+.zebra-table3 th,.zebra-table td{
+vertical-align: top;
+padding:10px 7px;
+text-align: left;
+
+}
+.zebra-table3 tbody tr:nth-child(odd) { /* Make table like zebra */
+background:#eee;
+}/* End CSS for Zebra Table in index.html */
+
+
+.zebra-table {
+width: 50%;
+border-collapse: collapse;
+box-shadow: 0 2px 3px 1px #ddd;
+overflow: hidden;
+border:10px solid #fff;
+margin-left: 300px;
+margin-right: 100px;
+margin-top: -255px;
+}
+.zebra-table th,.zebra-table td{
+vertical-align: top;
+padding:10px 7px;
+text-align: left;
+
+}
+.zebra-table tbody tr:nth-child(odd) { /* Make table like zebra */
+background:#eee;
+}/* End CSS for Zebra Table in index.html */
